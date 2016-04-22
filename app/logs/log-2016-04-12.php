@@ -1,0 +1,10 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-04-12 09:32:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-12 19:24:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-12 19:24:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-12 22:11:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-12 22:11:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-12 22:12:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-12 22:13:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-12 22:13:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91

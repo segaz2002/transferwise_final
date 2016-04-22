@@ -1,0 +1,12 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-03-29 07:29:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-29 08:06:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-29 08:07:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-29 08:07:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-29 08:07:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-29 08:08:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-29 08:10:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-29 23:08:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-29 23:08:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-03-29 23:09:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91

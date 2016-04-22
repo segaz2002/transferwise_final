@@ -1,0 +1,10 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-03-19 09:50:32 --> Severity: Notice  --> Undefined index: n7 /home/gateway/public_html/rest_sandbox/velo-admin/models/game.php 58
+ERROR - 2015-03-19 09:50:32 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/rest_sandbox/system/core/Exceptions.php:185) /home/gateway/public_html/rest_sandbox/velo-admin/libraries/REST_Controller.php 492
+ERROR - 2015-03-19 09:50:32 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/rest_sandbox/system/core/Exceptions.php:185) /home/gateway/public_html/rest_sandbox/system/core/Common.php 438
+ERROR - 2015-03-19 09:50:32 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/rest_sandbox/system/core/Exceptions.php:185) /home/gateway/public_html/rest_sandbox/velo-admin/libraries/REST_Controller.php 512
+ERROR - 2015-03-19 15:47:29 --> Severity: Notice  --> Undefined index: invalidNumberPick /home/gateway/public_html/rest_sandbox/velo-admin/controllers/games.php 73
+ERROR - 2015-03-19 15:47:29 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/rest_sandbox/system/core/Exceptions.php:185) /home/gateway/public_html/rest_sandbox/velo-admin/libraries/REST_Controller.php 492
+ERROR - 2015-03-19 15:47:29 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/rest_sandbox/system/core/Exceptions.php:185) /home/gateway/public_html/rest_sandbox/system/core/Common.php 438
+ERROR - 2015-03-19 15:47:29 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/rest_sandbox/system/core/Exceptions.php:185) /home/gateway/public_html/rest_sandbox/velo-admin/libraries/REST_Controller.php 512

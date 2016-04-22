@@ -1,0 +1,29 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-06-20 03:31:07 --> 404 Page Not Found --> transactions
+ERROR - 2014-06-20 03:31:07 --> 404 Page Not Found --> transactions
+ERROR - 2014-06-20 03:31:48 --> 404 Page Not Found --> transactions
+ERROR - 2014-06-20 03:31:48 --> 404 Page Not Found --> transactions
+ERROR - 2014-06-20 01:48:04 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 64
+ERROR - 2014-06-20 01:48:05 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 21
+ERROR - 2014-06-20 01:48:05 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/velo-admin/libraries/REST_Controller.php 492
+ERROR - 2014-06-20 01:48:05 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/system/core/Common.php 438
+ERROR - 2014-06-20 01:48:05 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/velo-admin/libraries/REST_Controller.php 512
+ERROR - 2014-06-20 01:48:23 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 52
+ERROR - 2014-06-20 01:48:23 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 58
+ERROR - 2014-06-20 01:50:57 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 64
+ERROR - 2014-06-20 01:50:58 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 21
+ERROR - 2014-06-20 01:50:58 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/velo-admin/libraries/REST_Controller.php 492
+ERROR - 2014-06-20 01:50:58 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/system/core/Common.php 438
+ERROR - 2014-06-20 01:50:58 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/velo-admin/libraries/REST_Controller.php 512
+ERROR - 2014-06-20 01:56:10 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 64
+ERROR - 2014-06-20 01:58:44 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 64
+ERROR - 2014-06-20 01:58:45 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 21
+ERROR - 2014-06-20 01:58:45 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/velo-admin/libraries/REST_Controller.php 492
+ERROR - 2014-06-20 01:58:45 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/system/core/Common.php 438
+ERROR - 2014-06-20 01:58:45 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/velo-admin/libraries/REST_Controller.php 512
+ERROR - 2014-06-20 02:00:21 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 64
+ERROR - 2014-06-20 02:00:22 --> Severity: Notice  --> Use of undefined constant ONLINE_FUNDING_TRANS - assumed 'ONLINE_FUNDING_TRANS' /home/gateway/public_html/apiv1/velo-admin/models/transaction.php 21
+ERROR - 2014-06-20 02:00:22 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/velo-admin/libraries/REST_Controller.php 492
+ERROR - 2014-06-20 02:00:22 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/system/core/Common.php 438
+ERROR - 2014-06-20 02:00:22 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/apiv1/system/core/Exceptions.php:185) /home/gateway/public_html/apiv1/velo-admin/libraries/REST_Controller.php 512

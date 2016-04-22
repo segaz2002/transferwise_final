@@ -1,0 +1,15 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-04-03 11:05:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-03 11:13:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-03 11:13:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-03 11:14:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-03 11:43:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-03 03:43:36 --> Severity: Notice  --> Undefined offset: 0 /home/gateway/public_html/api/app/models/game.php 278
+ERROR - 2016-04-03 03:43:36 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given /home/gateway/public_html/api/app/models/game.php 278
+ERROR - 2016-04-03 03:43:36 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/api/system/core/Exceptions.php:185) /home/gateway/public_html/api/app/libraries/REST_Controller.php 493
+ERROR - 2016-04-03 03:43:36 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/api/system/core/Exceptions.php:185) /home/gateway/public_html/api/system/core/Common.php 440
+ERROR - 2016-04-03 03:43:36 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/api/system/core/Exceptions.php:185) /home/gateway/public_html/api/app/libraries/REST_Controller.php 513
+ERROR - 2016-04-03 11:44:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-03 11:45:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2016-04-03 11:45:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/gateway/public_html/api/system/database/drivers/mysql/mysql_driver.php 91

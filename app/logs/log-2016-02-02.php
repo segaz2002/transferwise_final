@@ -1,0 +1,10 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-02-02 16:17:39 --> Severity: Notice  --> Undefined offset: 0 /home/gateway/public_html/api/app/controllers/games.php 155
+ERROR - 2016-02-02 16:17:39 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/api/system/core/Exceptions.php:185) /home/gateway/public_html/api/app/libraries/REST_Controller.php 493
+ERROR - 2016-02-02 16:17:39 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/api/system/core/Exceptions.php:185) /home/gateway/public_html/api/system/core/Common.php 438
+ERROR - 2016-02-02 16:17:39 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/api/system/core/Exceptions.php:185) /home/gateway/public_html/api/app/libraries/REST_Controller.php 513
+ERROR - 2016-02-02 16:27:42 --> Severity: Notice  --> Undefined offset: 0 /home/gateway/public_html/api/app/controllers/games.php 155
+ERROR - 2016-02-02 16:27:42 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/api/system/core/Exceptions.php:185) /home/gateway/public_html/api/app/libraries/REST_Controller.php 493
+ERROR - 2016-02-02 16:27:42 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/api/system/core/Exceptions.php:185) /home/gateway/public_html/api/system/core/Common.php 438
+ERROR - 2016-02-02 16:27:42 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/gateway/public_html/api/system/core/Exceptions.php:185) /home/gateway/public_html/api/app/libraries/REST_Controller.php 513
