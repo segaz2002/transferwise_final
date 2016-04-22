@@ -5,7 +5,7 @@ class Users extends REST_Controller {
 
     public function __construct(){
         parent::__construct();
-        $this->load->model('game');
+        $this->load->model('user');
         $this->load->config('transferservice', TRUE);
         $this->errorCode = $this->config->item('errorCode','transferservice');
         $this->errorDescription = $this->config->item('errorDescription','transferservice');
