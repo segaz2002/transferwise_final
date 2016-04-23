@@ -12,7 +12,6 @@ class Users extends REST_Controller {
     }
 
     public function assign_get(){
-
         $user_code  = ($this->get('code') != '') ? $this->get('code') :  null ;
         if($user_code){
             $this->response($user_code,200);
